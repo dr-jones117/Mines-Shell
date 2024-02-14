@@ -1,0 +1,5 @@
+*.sh
+/build
+.cache/
+build/
+obj/
