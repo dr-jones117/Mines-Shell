@@ -8,8 +8,8 @@ It's a shell that implements piping and parallel commands.
 You will need to have cmake and make installed to build this repository.
 
 After cloning the repo, cd into the root directory and run the following command:
-`
+```
 mkdir build && cd build && cmake .. && make && cd bin
-`
+```
 
 You've just compiled the project and can now run the `mish` binary. Have fun!
